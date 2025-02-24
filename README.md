@@ -69,7 +69,7 @@ git clone https://github.com/nick8592/opecv_plane_arrange.git
 2. Navigate to the directory.
 
 ```bash
-cd opecv_plane_arrange
+cd opecv-plane-arrange
 ```
 3. To compile the code, use the following command:
 
